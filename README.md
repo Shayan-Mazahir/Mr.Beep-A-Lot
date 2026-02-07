@@ -88,9 +88,11 @@ See [presentation/Comp_Eng_ISU.pdf](presentation/Comp_Eng_ISU.pdf) for detailed 
 ### 1. Hardware Assembly
 
 Refer to either:
--  [Tinkercad schematic](schematics/tinkercad_schematic.png)
+-  [Tinkercad schematic](schematics/tinkercad_schematic.png) 
 **OR**
 - [SVG XML schematic](schematics/schemetic.png) 
+
+(the TinkerCad is more accurate representation of how the robot was made, but it is quite messy; the SVG XML image is easy to read but it doesn't show stuff like capacitors and resisitors)
 
 for complete wiring diagram.
 
