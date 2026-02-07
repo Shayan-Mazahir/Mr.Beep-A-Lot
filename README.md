@@ -113,7 +113,7 @@ for complete wiring diagram.
 # - LiquidCrystal_I2C
 
 # Upload the code
-1. Open arduino/mr_beep_a_lot.ino
+1. Open beep_alot/beep_alot.ino
 2. Select Board: Arduino UNO
 3. Select Port: (your Arduino port)
 4. Click Upload
@@ -126,7 +126,7 @@ for complete wiring diagram.
 # Download from: https://processing.org/download
 
 # Run the visualization
-1. Open processing/radar_visualization.pde
+1. Open radar/radar.pde
 2. Update serial port if needed (Serial.list()[0])
 3. Click Run
 ```
